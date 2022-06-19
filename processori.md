@@ -1,1 +1,2 @@
 lista processori
+lista processori
